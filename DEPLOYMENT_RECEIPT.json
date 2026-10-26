@@ -1,0 +1,14 @@
+{
+  "project": "george-boole-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "CCxDTpx6qPWNzwFmzxL8UB27rhjPUx6kXEN2YnXiuG3C",
+  "vault_account": "GKQTNunpaCne4zrobnHrsxRar2qdz6s5WNJq8fAQF2A1",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2wVthjLdXSjZSEguQ1SqjyoQ5vuq7e2xoZZwSLK3D5JDoCE294BDPCZpA2Bwh9WbBYa1VuZtrt7v2bNCq1SH5Aj8",
+  "account_tx": "3BcekHk1RG5DhiM7MH5DaNEsPCBbXoDkp5eGqJzy9M6ruDmdQFp6c2LHmyg69piTD8hi8V9WncsvaX8V9q8pmTPp",
+  "mint_tx": "4ZUFRABsvEy1h8gBzzygMi6UqYQ8Ca5T44U6CEhJDDgWggaZkb6x6fUvfdKNyFzcMbUsw49HHZPfTqAe3dhhtsVk",
+  "solana_explorer_mint": "https://explorer.solana.com/address/CCxDTpx6qPWNzwFmzxL8UB27rhjPUx6kXEN2YnXiuG3C?cluster=devnet",
+  "timestamp": "2026-10-26 16:33:38 UTC"
+}
